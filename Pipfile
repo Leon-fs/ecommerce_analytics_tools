@@ -1,0 +1,12 @@
+[[source]]
+[packages]
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+seaborn = "*"
+scikit-learn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
